@@ -1,0 +1,400 @@
+/*Applies to URLs on the domain play.google.com*/
+
+/*Background*/
+.k8Lt0 .WpDbMd {
+    box-sizing: border-box;
+    display: table;
+    height: calc(100% - 138px);
+    margin-bottom: 15px;
+    padding-left: 249px;
+    padding-right: 49px;
+    overflow-x: hidden;
+    width: 100%;
+    background-color: #0e0e20f7;
+}
+
+/*App Page Header*/
+.gb_Af {
+    background: #555a66;
+}
+.gbqfqw.gbqfqw:active, .gbqfqw.gbqfqwf.gbqfqwf {
+    border-color: #00b722;
+}
+.gbqfqw {
+    background: #17171c;
+    background-clip: padding-box;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0, 0, 0, .15);
+    border-right-width: 0;
+    height: 30px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#gbqfb {
+    border: 1px solid transparent;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    height: 30px;
+    margin: 0;
+    outline: none;
+    padding: 0 0;
+    width: 60px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background: #aab2bf;
+    background: -webkit-linear-gradient(top, #689f38, #689f38);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4387fd, endColorstr=#4683ea, GradientType=1);
+}
+.t5eBue {
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    background: #18181c;
+    height: 48px;
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+.b7cPmf:last-child .g3P27d {
+    margin: 0 10px;
+    padding: 0;
+    top: 10px;
+}
+.LNKfBf {
+    border-radius: 3px;
+    box-shadow: 0 2px 40px rgba(0, 0, 0, 0.4);
+    background: #555a66;
+    border: 1px solid #d6d6d6;
+    max-height: 500px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    z-index: 1100;
+}
+a {
+    text-decoration: none;
+    color: #c4c4c6;
+}
+.LkLjZd, .LkLjZd:visited {
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    box-sizing: border-box;
+    transition: all 0.2s;
+    -webkit-user-select: none;
+    background-color: #689f38;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    color: #000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    height: 36px;
+    line-height: 34px;
+    min-width: 40px;
+    padding: 0 20px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+/*App Page Left Bar*/
+.k8Lt0 .XBXPXc {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #555a66;
+}
+.WhMnYc, .WtH9qd {
+    color: #d3d3d3;
+}
+.POfIAc {
+    background: rgb(211 211 211);
+    height: 1px;
+    margin: 14px;
+    width: 148px;
+}
+.k8Lt0 .fle8Af .gm1qLe {
+    color: #cbcccc;
+    cursor: pointer;
+    font-weight: 400;
+    padding: 6px 12px 6px 23px;
+}
+.qKjvAb .gWazle, .qKjvAb .gWazle .gm1qLe {
+    color: #b2cb39;
+}
+.k8Lt0 .qKjvAb .Mqdrgf {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAL0lEQVR42mNgGEbgf8N/BGjALoKqAQVgF8HQgMrCFBkADaT5gdRQGo240YijNwAAGCY24I9hRLYAAAAASUVORK5CYII=);
+}
+.iZhiic .pvVVcb {
+    color: #cbcccc;
+    display: table-cell;
+}
+.k8Lt0 .znPNx {
+    background-color: #18181c;
+    display: block;
+    height: calc(100% - 48px);
+    overflow: hidden;
+    position: absolute;
+    top: 48px;
+    width: 24px;
+    z-index: 1053;
+}
+.k8Lt0 .CoKTif {
+    background: rgb(85 90 102);
+    border-top: 1px solid #cbcccc;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+    padding-bottom: 10px;
+    padding-top: 9px;
+    position: absolute;
+}
+.shke5e {
+    background: #d3d3d3;
+    border-radius: 14px;
+    color: #18181c;
+    float: right;
+    padding: 0 8px;
+}
+
+/*App Page Right Bar*/
+.Z3lOXb {
+    align-items: center;
+    display: flex;
+    margin-bottom: 15px;
+    width: 100%;
+    background-color: #555a66;
+}
+a {
+    text-decoration: none;
+    color: #c4c4c6;
+}
+.LkLjZd, .LkLjZd:visited {
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    box-sizing: border-box;
+    transition: all 0.2s;
+    -webkit-user-select: none;
+    background-color: #689f38;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    color: #000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    height: 36px;
+    line-height: 34px;
+    min-width: 40px;
+    padding: 0 20px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+.Z3lOXb {
+    align-items: center;
+    display: flex;
+    margin-bottom: 5px;
+    width: 100%;
+    background-color: #555a66;
+}
+.uMConb {
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12), 0px 1px 3px 0px rgba(0, 0, 0, 0.2);
+    background: #555a66;
+    border-radius: 2px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 5px;
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+    vertical-align: top;
+    white-space: normal;
+}
+.buPxGf {
+    background-color: #555a66;
+}
+.cqtbn {
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), rgb(85 90 102));
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1, StartColorStr='#00ffffff', EndColorStr='#ffffff');
+    bottom: 0;
+    height: 25px;
+    max-height: 100%;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    width: 60px;
+}
+
+
+/*App Page Interrior*/
+.LXrl4c {
+    background-color: #555a66;
+    display: inline-block;
+    padding-bottom: 40px;
+    width: 720px;
+    vertical-align: top;
+}
+.AHFaub {
+    color: #d3d3d3;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 35px;
+    margin: 25px 0 10px 0;
+    text-align: left;
+}
+.jdjqLd {
+    color: #d3d3d3;
+    display: table;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.k8Lt0 .bSIuKf {
+    color: #d3d3d3;
+    font-weight: 700;
+}
+.nzJrHc {
+    color: #d3d3d3;
+    cursor: pointer;
+    display: table;
+    line-height: 22px;
+}
+.drrice .vaqewe, .drrice .HWf7Ze {
+    color: #5dbd37;
+}
+.drrice .vaqewe, .drrice .HWf7Ze {
+    color: #47d100;
+}
+.drrice .d4tZAd {
+    filter: brightness(2);
+}
+.dNLKff {
+    color: #d3d3d3;
+}
+.pf5lIe {
+    display: inline-block;
+    white-space: nowrap;
+    filter: invert(1) brightness(2);
+}
+.O3QoBc {
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 16px;
+    width: 16px;
+    filter: brightness(3);
+}
+.drrice .hrTbp, .drrice .hrTbp:visited {
+    color: #4dc11f;
+}
+.W4P4ne {
+    background: #555a66;
+    display: block;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 0 50px 0 50px;
+    position: relative;
+    text-align: left;
+    color: #c0c2c3;
+}
+.BHMmbe {
+    color: #cdcdcd;
+    font-size: 64px;
+    font-weight: 100;
+    line-height: 64px;
+}
+.Rm6Gwb {
+    color: #cccccd;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+.kq6fXc {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    vertical-align: middle;
+    height: 16px;
+    width: 16px;
+    filter: brightness(2);
+}
+.LvvOW {
+    display: inline-block;
+    margin: 5px 0;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.EymY4b {
+    color: #c8c8c9;
+}
+.Gn2mNd {
+    font-size: 11px;
+    left: -16px;
+    letter-spacing: 1px;
+    position: absolute;
+    color: #d9d9d9;
+}
+.NE4Eeb, .y92BAb {
+    color: #d9d9d9;
+}
+.DPvwYc {
+    font-family: 'Material Icons Extended';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-rendering: optimizeLegibility;
+    text-transform: none;
+    display: inline-block;
+    word-wrap: normal;
+}
+.drrice .n9lfJ .snByac {
+    color: #b0c93a;
+}
+.BgcNfc {
+    color: #000;
+    font-weight: 500;
+    margin-bottom: 2px;
+}
+.drrice .JHTxhe a, .drrice .JHTxhe a:visited {
+    color: #8ad14c;
+}
+.drrice .i5DZme {
+    color: #80c345;
+}
+
+/*App Page Bottom Bar*/
+.sIIDsc {
+    background: #18181c;
+    color: #d3d3d3;
+    font-weight: 400;
+    width: 100%;
+}
+
+/*Search Results Page*/
+.y1APZe-UtC6se .nnK0zc {
+    font-size: 20px;
+    color: lightgrey;
+}
+
+
+/*Entertainment Landing Page*/
+.q9QOMe .i5DZme {
+    color: #f7a9a9;
+}
+/*Books Landing Page*/
+.K1b9Kc .i5DZme {
+    color: #3ab1eb;
+}
