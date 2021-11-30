@@ -101,6 +101,9 @@ a {
     text-decoration: none;
     white-space: nowrap;
     vertical-align: middle;
+}.gbqfif, .gbqfsf {
+    color: #fbfbfb;
+    font: 16px arial,sans-serif;
 }
 
 /*App Page Left Bar*/
